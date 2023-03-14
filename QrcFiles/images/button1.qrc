@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>settings.png</file>
+    <file>button1.png</file>
+  </qresource>
+</RCC>
